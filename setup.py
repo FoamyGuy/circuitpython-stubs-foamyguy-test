@@ -31,7 +31,7 @@ setuptools.setup(
     author="Tim C",
     author_email="foamyguy@gmail.com",
     description="Stubs For CircuitPython Project",
-    long_description=long_description,
+    long_description="Stubs For CircuitPython Project",
     long_description_content_type="x-rst",
     url="https://github.com/adafruit/circuitpython",
     #packages=["circuitpython-stubs", "circuitpython-stubs.digitalio"],
